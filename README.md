@@ -1,4 +1,4 @@
-[![CCO](https://img.shields.io/github/repo-size/harryDevPL/design-patterns=plastic)](https://img.shields.io/github/repo-size/harryDevPL/design-patterns?style=plastic)
+[![CCO](https://img.shields.io/github/repo-size/harryDevPL/design-patterns?=plastic)](https://img.shields.io/github/repo-size/harryDevPL/design-patterns?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/harryDevPL/design-patterns?style=plastic)
 <br>
 # Simple project with different implementations of design patters in java.
@@ -24,7 +24,7 @@
 | 16 | Adapter                 | Structural | ***Not Done*** |
 | 17 | Bridge                  | Structural | ***Not Done*** |
 | 18 | Composite               | Structural | ***Not Done*** |
-| 19 | Decorator               | Structural | ***Not Done*** |
+| 19 | Decorator               | Structural | ***In progress*** |
 | 20 | Facade                  | Structural | ***Not Done*** |
 | 21 | Flyweight               | Structural | ***Not Done*** |
 | 22 | Proxy                   | Structural | ***Not Done*** |
